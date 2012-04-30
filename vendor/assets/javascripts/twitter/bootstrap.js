@@ -1,1 +1,1 @@
-//= require_tree ./bootstrap
+//= require ./bootstrap/bootstrap-transition.js
