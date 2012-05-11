@@ -28,7 +28,7 @@
   @extend .ie7-restore-right-whitespace;
 }
 .icon-white {
-  background-image: url("#{$iconWhiteSpritePath}");
+  background-image: url('/assets/glyphicons-halflings-white.png');
 }
 
 .icon-glass              { background-position: 0      0; }
